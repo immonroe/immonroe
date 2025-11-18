@@ -3,7 +3,7 @@ immonroe/immonroe is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Manny</h1>
+<h1 align="center">Hi 👋🏾, I'm Manny</h1>
 <h3 align="center">A passionate fullstack developer from Philly</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immonroe&label=Profile%20views&color=0e75b6&style=flat" alt="immonroe" /> </p>
@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently developing: [Eremos](https://github.com/immonroe/eremos) - a mindfulness app integrating AI technology.
 
-- 🌱 I’m currently teaching myself: **AI integration and how to put it into fullstack projects**
+- 🌱 I’m currently teaching myself: **Game development (Godot), Linux, and Blender**
 
-- 👨‍💻 All of my projects are available at: [https://immanuelmonroe.netlify.app/](https://immanuelmonroe.netlify.app/)
+- 👨‍💻 Some of my projects are available at: [https://immanuelmonroe.netlify.app/](https://immanuelmonroe.netlify.app/)
 
-- 💬 Ask me about: **JRPGs, backend development, and self-teaching your way into a SWE role**
+- 💬 Ask me about: **Gaming, why you should switch to Linux, coding, or self-teaching your way into a SWE role**
 
 - 📫 How to reach me: **immanuelmonroe@gmail.com**
 
